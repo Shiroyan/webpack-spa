@@ -1,4 +1,4 @@
-# 非Vue项目webpack配置
+# webpac-spa
 
 ### 推荐目录结构
       build
@@ -13,6 +13,8 @@
 3.  生产时开启了`gzip`
 4.  已自带`dev-server`，以及代理转发功能
 5.  已集成babel，放心使用`es6`语法
+6.  采用`eslint airbnb`标准
+7.  使用`handlebars`模板语法
 
 ### 使用方法
     `npm install` 安装完依赖

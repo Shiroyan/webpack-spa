@@ -1,0 +1,8 @@
+build/*.js
+config/*.js
+src/main.js
+src/router/*.js
+src/store/*.js
+src/utils/*.js
+src/api/*.js
+scr/bussiness/share.js
